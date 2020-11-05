@@ -1,0 +1,19 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "## 매일 꾸준히 공부한 기록",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghehd231/TIL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghehd231/TIL/issues"
+  },
+  "homepage": "https://github.com/ghehd231/TIL#readme"
+}
